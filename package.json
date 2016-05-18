@@ -1,0 +1,14 @@
+{
+	"name": "cc-luhn",
+	"description": "Calculate or verify the credit card check digit (luhn)",
+	"version": "1.0.0",
+	"repository": "paylike/luhn",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"tape": "^4.5.1"
+	},
+	"keywords": [ "luhn", "credit card", "validate" ],
+	"license": "MIT"
+}
